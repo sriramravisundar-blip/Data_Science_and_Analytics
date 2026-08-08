@@ -1,0 +1,2 @@
+order_id,timestamp,item_code,item_name,category,quantity,unit_price,line_total,order_total
+1,2026-08-08 10:52:53,S2,Veg Spring Rolls,Starters,4,5.25,21.00,21.00
