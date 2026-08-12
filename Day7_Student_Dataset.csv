@@ -1,0 +1,26 @@
+Student_ID,Name,Age,Course,Marks,Attendance_Percentage,City
+1001,Aarav Sharma,19,Data Science,87.0,91.0,Srinagar
+1002,Zoya Khan,20,AI,92.0,95.0,Delhi
+1003,Rohan Mehta,18,Computer Science,76.0,82.0,Mumbai
+1004,Ananya Singh,21,Data Science,81.0,88.0,Srinagar
+1005,Kabir Ali,19,AI,69.0,76.0,Lucknow
+1006,Ishita Gupta,20,Computer Science,88.0,93.0,Bengaluru
+1007,Aditya Verma,22,Data Science,95.0,97.0,Pune
+1008,Sara Ahmed,19,AI,73.0,,Hyderabad
+1009,Arjun Nair,18,Computer Science,84.0,86.0,Kochi
+1010,Mehak Bhat,21,Data Science,79.0,90.0,Srinagar
+1011,Vivaan Kapoor,20,AI,91.0,94.0,Jaipur
+1012,Aisha Mir,19,Computer Science,68.0,72.0,Delhi
+1013,Rahul Das,23,Data Science,72.0,81.0,Kolkata
+1014,Sana Malik,18,AI,89.0,92.0,
+1015,Karan Joshi,20,Computer Science,77.0,85.0,Chandigarh
+1016,Hiba Sheikh,21,Data Science,94.0,96.0,Srinagar
+1017,Dev Patel,19,AI,86.0,89.0,Ahmedabad
+1018,Manya Rao,22,Computer Science,70.0,74.0,Bengaluru
+1019,Yusuf Dar,20,Data Science,,87.0,Srinagar
+1020,Priya Menon,21,AI,90.0,91.0,Chennai
+1021,Aman Kumar,18,Computer Science,74.0,78.0,Delhi
+1022,Alina Shah,19,Data Science,96.0,98.0,Srinagar
+1023,Nikhil Sood,22,AI,78.0,83.0,Pune
+1024,Maryam Khan,20,Computer Science,85.0,88.0,Hyderabad
+1025,Reyansh Jain,21,Data Science,80.0,84.0,Kolkata
