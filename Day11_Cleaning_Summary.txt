@@ -1,0 +1,26 @@
+Day 11 Cleaning Summary
+
+Source: Day11_Messy_Company_Employee_Dataset.csv
+Output: Day11_Cleaned_Company_Employee_Dataset.csv
+
+Before cleaning:
+- Rows: 157
+- Missing cells: 32
+- Exact duplicate rows: 7
+- Duplicate Employee_ID rows: 7
+
+Cleaning steps:
+- Converted blanks and N/A markers to missing values.
+- Removed exact duplicate records with drop_duplicates().
+- Trimmed whitespace and standardized categorical labels for department, gender, city, and work mode.
+- Inferred missing departments from job titles, then used mode imputation for remaining categorical gaps.
+- Used median imputation for missing age, salary, experience, and performance scores.
+- Parsed joining dates as datetime values and removed invalid required dates.
+- Converted age, salary, and performance score to integer types.
+
+After cleaning:
+- Rows: 150
+- Missing cells: 0
+- Exact duplicate rows: 0
+- Duplicate Employee_ID rows: 0
+- Invalid dates: 0
